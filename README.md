@@ -85,9 +85,9 @@ To get the project up and running, follow these steps:
 
 ## **Project Structure**
 
-- ````````frontend**/**`: The React frontend of the application.
-- ```````backend**/**`: The Express.js backend for fetching data from the New York Times API.
-- ```````bakcend**/.env**`: Configuration file for storing environment variables (e.g., API key).
+- `frontend**/**`: The React frontend of the application.
+- `backend**/**`: The Express.js backend for fetching data from the New York Times API.
+- `bakcend**/.env**`: Configuration file for storing environment variables (e.g., API key).
 
 ## **Usage**
 
@@ -99,6 +99,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Project View
 
-![Untitled](MERN%20Top%20Stories%20App%207bfd20ff11f34a1b9aff8e9eaafc2eb9/Untitled.png)
+![Project-view](https://res.cloudinary.com/dicdsctqj/image/upload/v1698299774/ar6l3xsij3omv2ou5j2j.png)
 
-![Untitled](MERN%20Top%20Stories%20App%207bfd20ff11f34a1b9aff8e9eaafc2eb9/Untitled%201.png)
+![Project-view](https://res.cloudinary.com/dicdsctqj/image/upload/v1698299792/oq75vuiaf6qxiktekgev.png)
